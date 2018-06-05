@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="621c757f-dbe2-4999-84ed-51e710f5e151" name="Default" comment="" />
+    <list default="true" id="621c757f-dbe2-4999-84ed-51e710f5e151" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -26,8 +28,17 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="2" column="91" lean-forward="true" selection-start-line="2" selection-start-column="91" selection-end-line="2" selection-end-column="91" />
+            <state relative-caret-position="180">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -77,6 +88,7 @@
         <option value="$PROJECT_DIR$/Object.defineProperty.js" />
         <option value="$PROJECT_DIR$/mvvm.js" />
         <option value="$PROJECT_DIR$/mvvm.html" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
@@ -169,15 +181,16 @@
       <workItem from="1527924445345" duration="599000" />
       <workItem from="1527928505351" duration="3709000" />
       <workItem from="1528073976077" duration="16986000" />
-      <workItem from="1528165243719" duration="13449000" />
+      <workItem from="1528165243719" duration="13938000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57478000" />
+    <option name="totallyTimeSpent" value="57967000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1358" height="1047" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30151516" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -451,10 +464,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="2" column="91" lean-forward="true" selection-start-line="2" selection-start-column="91" selection-end-line="2" selection-end-column="91" />
+        <state relative-caret-position="180">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
